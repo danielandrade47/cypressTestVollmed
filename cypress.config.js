@@ -23,6 +23,7 @@ module.exports = defineConfig({
       json: false,
       timestamp: "mmddyyyy_HHMMss"
     },
+    projectId: "hrj38u",
     
     defaultCommandTimeout: 60000
   },
